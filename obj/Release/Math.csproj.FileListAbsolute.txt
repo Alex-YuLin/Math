@@ -1,0 +1,5 @@
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\MathIntFace\obj\Release\Math.csproj.CoreCompileInputs.cache
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\OutDLL\Math.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\OutDLL\Math.pdb
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\MathIntFace\obj\Release\Math.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\MathIntFace\obj\Release\Math.pdb
